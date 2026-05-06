@@ -1,9 +1,7 @@
 # State-wise COVID-19 Impact vs. Vaccination Coverage in India
+**Foundation of Data Science — B.Tech AI & DS Project**  
+Author : Mahi Kala  
 
-**Foundation of Data Science — B.Tech CSE Project**  
-Alliance School of Advanced Computing, Alliance University, Bengaluru  
-Authors: V. Ganga Purna Chandu Reddy & Mahi Kala  
-Supervisor: Ms. Jaspine Bami Rani  
 
 ---
 
