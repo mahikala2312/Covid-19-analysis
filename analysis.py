@@ -1,9 +1,7 @@
 """
 State-wise COVID-19 Impact vs. Vaccination Coverage in India
 Foundation of Data Science Project
-Authors: V. Ganga Purna Chandu Reddy, Mahi Kala
-Supervisor: Ms. Jaspine Bami Rani
-Alliance University, Bengaluru — October 2025
+Authors: Mahi Kala
 """
 
 import numpy as np
